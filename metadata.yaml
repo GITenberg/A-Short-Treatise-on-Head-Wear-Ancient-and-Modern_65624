@@ -5,12 +5,17 @@ contributor:
     agent_name: Goater, Walter H
     gutenberg_agent_id: '53434'
     url: http://www.gutenberg.org/2009/agents/53434
+covers:
+- cover_type: archival
+  image_path: 65624-h/images/i_cover.jpg
 creator:
   author:
     agent_name: Goater, Anne C
     gutenberg_agent_id: '53435'
     url: http://www.gutenberg.org/2009/agents/53435
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65624#A-Short-Treatise-on-Head-Wear-Ancient-and-Modern
 gutenberg_issued: '2021-06-16'
 gutenberg_type: Text
 identifiers:
